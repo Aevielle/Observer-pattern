@@ -1,0 +1,3 @@
+public enum Category {
+    POLITICS, SPORTS, TECHNOLOGY, BUSINESS, ENTERTAINMENT
+}
