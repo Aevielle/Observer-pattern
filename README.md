@@ -28,3 +28,5 @@
 
 * The system should be scalable to handle a growing number of subscribers without compromising performance.
 * Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+<img width="1697" height="680" alt="image" src="https://github.com/user-attachments/assets/f3e18e8c-174b-4f52-ae9d-0f41942991f3" />
