@@ -1,6 +1,3 @@
-# Real-time News Subscription Service (Observer Pattern)
-
-## Problem Statement
 
 **Real-time News Subscription Service**
 
